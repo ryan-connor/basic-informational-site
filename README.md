@@ -1,1 +1,1 @@
-Basic information site using node.js to learn some node basics.
+Basic information site to learn some node and express basics.
